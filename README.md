@@ -7,3 +7,6 @@ Apache Lucene, the popular search engine library written in Java, has maintained
 # Repositories
 - [lucene-cyborg-cpp](https://github.com/0ctopus13prime/lucene-cyborg-cpp)
 - [lucene-cyborg-java](https://github.com/0ctopus13prime/lucene-cyborg-java)
+
+# Reproduce the benchmark results
+Please refer [lucene-cyborg-search-benchmark-game](https://github.com/0ctopus13prime/lucene-cyborg-search-benchmark-game)
